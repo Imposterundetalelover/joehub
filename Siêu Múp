@@ -1,28 +1,28 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "👑Haselft Hub👑 | https://discord.com/invite/cXjP4jg2Gw",
-   LoadingTitle = "By 🛡Haselft Hub🛡",
-   LoadingSubtitle = "By Alex",
+   Name = "👑Private Top secret👑 | https://discord.com/invite/W2MAgVne",
+   LoadingTitle = "By Private Top secret",
+   LoadingSubtitle = "By Private Top secret",
       ConfigurationSaving = {
       Enabled = true,
-      FolderName = Haselfthub,
-      FileName = "Haselft Hub"
+      FolderName = Private Top secret,
+      FileName = "Private Top secret"
    },
    Discord = {
       Enabled = false,
-      Invite = "https://discord.com/invite/cXjP4jg2Gw",
+      Invite = "https://discord.com/invite/W2MAgVne",
       RememberJoins = false
    },
    KeySystem = false,
    KeySettings = {
-      Title = "Key | Haselft Hub",
+      Title = "Key | Private Top secret",
       Subtitle = "Key System",
-      Note = "Key : Haselft Hub",
+      Note = "Key : Private Top secret",
       FileName = "Key",
-      SaveKey = false,
+      SaveKey = true,
       GrabKeyFromSite = false,
-      Key = {"Haselft Hub"}
+      Key = {"PrivatekeyhubidkjoestoplookinfdombshitihateyouiwilleatcrocsikliekormfdsfdsfsdfadsaddchingchongsingsongPrivatekeyhubidkjoestoplookinfdombshitihateyouiwilleatcrocsikliekormfdsfdsfsdfadsaddchingchongsingsongPrivatekeyhubidkjoestoplookinfdombshitihateyouiwilleatcrocsikliekormfdsfdsfsdfadsaddchingchongsingsongPrivatekeyhubidkjoestoplookinfdombshitihateyouiwilleatcrocsikliekormfdsfdsfsdfadsaddchingchongsingsongPrivatekeyhubidkjoestoplookinfdombshitihateyouiwilleatcrocsikliekormfdsfdsfsdfadsaddchingchongsingsongPrivatekeyhubidkjoestoplookinfdombshitihateyouiwilleatcrocsikliekormfdsfdsfsdfadsaddchingchongsingsongPrivatekeyhubidkjoestoplookinfdombshitihateyouiwilleatcrocsikliekormfdsfdsfsdfadsaddchingchongsingsongPrivatekeyhubidkjoestoplookinfdombshitihateyouiwilleatcrocsikliekormfdsfdsfsdfadsaddchingchongsingsongPrivatekeyhubidkjoestoplookinfdombshitihateyouiwilleatcrocsikliekormfdsfdsfsdfadsaddchingchongsingsongPrivatekeyhubidkjoestoplookinfdombshitihateyouiwilleatcrocsikliekormfdsfdsfsdfadsaddchingchongsingsong"}
    }
 })
 
@@ -32,7 +32,7 @@ local TabSection = Tab:CreateSection("Main")
 
 Rayfield:Notify({
    Title = "You Have Executor Script ",
-   Content = "Script By Alex",
+   Content = "Script By private",
    Duration = 5,
    Image = 13047715178,
    Actions = { -- Notification Buttons
